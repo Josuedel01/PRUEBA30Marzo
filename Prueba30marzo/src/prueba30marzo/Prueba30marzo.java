@@ -16,6 +16,9 @@ public class Prueba30marzo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+       System.out.println("Nombre: Josue Emanuel de Leon Tello");
+       System.out.println("Direccion: 8va. Calle 6-18 Zona 1");
+       System.out.println("Telefono: 32619998");
     }
-    
+   
 }
